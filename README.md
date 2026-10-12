@@ -1,0 +1,14 @@
+Release
+https://github.com/Damir-00/labs/releases/tag/lab01
+https://github.com/Damir-00/labs/releases/tag/lab02
+https://github.com/Damir-00/labs/releases/tag/lab03
+https://github.com/Damir-00/labs/releases/tag/lab04
+https://github.com/Damir-00/labs/releases/tag/lab05
+https://github.com/Damir-00/labs/releases/tag/lab06
+https://github.com/Damir-00/labs/releases/tag/lab07
+https://github.com/Damir-00/labs/releases/tag/lab08
+https://github.com/Damir-00/labs/releases/tag/lab09
+https://github.com/Damir-00/labs/releases/tag/lab11
+https://github.com/Damir-00/labs/releases/tag/lab12
+https://github.com/Damir-00/labs/releases/tag/lab13
+https://github.com/Damir-00/labs/releases/tag/lab14
